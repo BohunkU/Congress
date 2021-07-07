@@ -1,0 +1,41 @@
+
+
+
+
+header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.sortButton {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+button {
+    font-size: 15px;
+    background-color: #5A859E;
+    border-color: #193a4d;
+    color: black;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 5px;  
+    display: flex;
+    justify-content: center; 
+    flex-direction: row;
+    align-items: wrap; 
+}
+
+
+.congressPerson {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}  
